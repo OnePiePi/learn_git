@@ -9,3 +9,5 @@ And I will see what will happen if I change the word.
 What？I have already enter the ctrl + s?
 
 Git is free software distributed under the GPL.
+
+Git has a mutable index called stage.
