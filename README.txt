@@ -1,1 +1,0 @@
-It's true that this is a README.txt file.
